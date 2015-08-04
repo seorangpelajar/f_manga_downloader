@@ -30,7 +30,7 @@
 					</ul>
 					<p><strong>Notes: Recommended using firefox web browser to automatically name the web page that you saved.</strong></p>
 					<hr>
-					<p align="center">Copyright &copy; 2015. Sigma Informant Guy.</p>
+					<p align="center">Copyright &copy; 2015. Seorang Pelajar.</p>
 				</div>
 			</div>
 		</div>
