@@ -22,7 +22,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h1 align="center">This program just for shit. Do what the fuck you want!</h1>
-					<h3 align="center">Not safe for children. R18+</h3>
+					<h3 align="center"><span style="font-weight: bold;">Not safe for children. <span style="color:red;">R18+</span></span></h3>
 					<p><strong>Feature Included:</strong></p>
 					<ul>
 						<li>Best experience for reading fakku manga.</li>
